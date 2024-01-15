@@ -5,7 +5,7 @@ image: assets/images/profiles/Dawa-Edina-Hillary/Dawa-Edina-Hillary.jpg
 country: Uganda
 region: West Nile
 hub: CC4D
-languages: English (Very good), Arabic (very good), Kakwa (mother tongue, very good), Lugbara (good)
+languages: English (Very good), Arabic (very good), Kakwa (native), Lugbara (good)
 mail: dawaedina27@gmail.com
 phone: "+256787577005"
 whatsapp: "+256787577005"
@@ -45,5 +45,3 @@ Dawa Edina Hillary is a highly proficient Information Technology specialist with
 Passionately committed to leveraging technology for community advancement, Dawa is the Co-Founder of Community Creativity for Development (CC4D), where she presently holds the roles of gender advocate, finance manager, and administrative manager.
 
 Born in the Rhino Camp refugee settlement in Uganda, Dawa's life journey led her to become a refugee once again, this time due to tribal conflicts in South Sudan. These personal experiences have fueled her unwavering dedication to advocating for gender equality and empowerment through the transformative power of technology.
-
-(Comment) Kindly include the name(s) of institution (s) where Edina acquired her Diploma and Certificate in Information Technology.
